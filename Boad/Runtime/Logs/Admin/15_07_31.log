@@ -1,0 +1,10 @@
+[ 2015-07-31T13:56:57+08:00 ] 127.0.0.1 /boad/Admin/Index/ajax_act/?act=get_boadlist&id=4&order=1&page=1&perpage=50
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001046s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001797s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0068s ]
+SQL: SELECT `id`,`content`,`dig`,`comment_count`,`uptime` FROM `wp_aite_boadlist` WHERE ( tid = 4 ) ORDER BY id DESC LIMIT 0,50   [ RunTime:0.0082s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001479s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001582s ]
+

@@ -1,0 +1,6 @@
+[ 2015-07-08T14:26:07+08:00 ] 127.0.0.1 /wish/Admin
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'thinkphp.wp_aite_auth_group_access' doesn't exist
+
+[ 2015-07-08T17:20:06+08:00 ] 127.0.0.1 /wish/Admin/Index/boadtitle_save
+ERR: SQLSTATE[HY000]: General error: 1364 Field 'datetime' doesn't have a default value
+

@@ -1,0 +1,30 @@
+[ 2015-07-29T17:18:47+08:00 ] 127.0.0.1 /boad/Admin/Index/ajax_act/?act=get_boadlist&id=4&order=1&page=1&perpage=50
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001179s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001795s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0067s ]
+SQL: SELECT `id`,`content`,`dig`,`comment_count`,`uptime` FROM `wp_aite_boadlist` WHERE ( tid = 4 ) ORDER BY id DESC LIMIT 0,50   [ RunTime:0.0253s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001638s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001757s ]
+
+[ 2015-07-29T17:18:53+08:00 ] 127.0.0.1 /boad/Admin/Index/ajax_act/?act=get_boadlist&id=4&order=1&page=1&perpage=50
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001034s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001746s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0112s ]
+SQL: SELECT `id`,`content`,`dig`,`comment_count`,`uptime` FROM `wp_aite_boadlist` WHERE ( tid = 4 ) ORDER BY id DESC LIMIT 0,50   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001378s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001488s ]
+
+[ 2015-07-29T17:19:01+08:00 ] 127.0.0.1 /boad/Admin/Index/ajax_act/?act=get_boadlist&id=4&order=1&page=1&perpage=50
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001381s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002152s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0084s ]
+SQL: SELECT `id`,`content`,`dig`,`comment_count`,`uptime` FROM `wp_aite_boadlist` WHERE ( tid = 4 ) ORDER BY id DESC LIMIT 0,50   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001880s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002010s ]
+

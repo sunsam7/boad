@@ -1,0 +1,24 @@
+[ 2015-04-01T10:53:16+08:00 ] 127.0.0.1 /wish/Home/User/test/
+ERR: 没有可以被保存的图像资源
+
+[ 2015-04-01T10:53:29+08:00 ] 127.0.0.1 /wish/Home/User/test/
+ERR: 没有可以被保存的图像资源
+
+[ 2015-04-01T13:58:22+08:00 ] 127.0.0.1 /wish/Home/User/
+ERR: 参数错误或者未定义:id
+
+[ 2015-04-01T13:58:27+08:00 ] 127.0.0.1 /wish/Home/User/
+ERR: 参数错误或者未定义:id
+
+[ 2015-04-01T13:58:39+08:00 ] 127.0.0.1 /wish/Home/User/
+ERR: 参数错误或者未定义:id
+
+[ 2015-04-01T13:58:57+08:00 ] 127.0.0.1 /wish/Home/User/
+ERR: 参数错误或者未定义:id
+
+[ 2015-04-01T15:29:43+08:00 ] 127.0.0.1 /wish/Home/User/__Controller__/upload?file=18.jpg
+ERR: 非法操作:__Controller__
+
+[ 2015-04-01T15:32:14+08:00 ] 127.0.0.1 /wish/Home/User/__Controller__/upload?file=18.jpg
+ERR: 非法操作:__Controller__
+

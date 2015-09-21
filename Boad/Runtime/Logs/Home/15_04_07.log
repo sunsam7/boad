@@ -1,0 +1,15 @@
+[ 2015-04-07T14:02:11+08:00 ] 127.0.0.1 /wish/User/tesdddt/
+ERR: 非法操作:tesdddt
+
+[ 2015-04-07T14:44:53+08:00 ] 127.0.0.1 /wish/Home/User/test/
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'thinkphp.think_card' doesn't exist
+
+[ 2015-04-07T14:47:57+08:00 ] 127.0.0.1 /wish/Home/User/test/
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'uid' in 'where clause'
+
+[ 2015-04-07T15:00:20+08:00 ] 127.0.0.1 /wish/Home/User/test/
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'thinkphp.think_card1' doesn't exist
+
+[ 2015-04-07T15:00:42+08:00 ] 127.0.0.1 /wish/Home/User/test/
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'thinkphp.think_userinfo' doesn't exist
+

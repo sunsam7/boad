@@ -1,0 +1,21 @@
+[ 2015-03-18T11:49:03+08:00 ] 127.0.0.1 /wish/Home/Index/User/
+ERR: 非法操作:User
+
+[ 2015-03-18T15:19:27+08:00 ] 127.0.0.1 /wish/Home/User/test/
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'thinkphp.tp32_user' doesn't exist
+
+[ 2015-03-18T15:20:25+08:00 ] 127.0.0.1 /wish/Home/User/test/
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'thinkphp.think_' doesn't exist
+
+[ 2015-03-18T15:27:41+08:00 ] 127.0.0.1 /wish/Home/User/test/
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'thinkphp.tp32_user' doesn't exist
+
+[ 2015-03-18T15:28:14+08:00 ] 127.0.0.1 /wish/Home/User/test/
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'thinkphp.tp32_user' doesn't exist
+
+[ 2015-03-18T15:49:30+08:00 ] 127.0.0.1 /wish/Home/User/test/
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'thinkphp.think_admin/_user' doesn't exist
+
+[ 2015-03-18T16:42:23+08:00 ] 127.0.0.1 /wish/Home/User/test/
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'conetent' in 'field list'
+

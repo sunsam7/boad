@@ -1,0 +1,6 @@
+[ 2015-04-02T11:34:01+08:00 ] 127.0.0.1 /wish/Admin/Index/index
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'thinkphp.think_auth_group_access' doesn't exist
+
+[ 2015-04-02T11:45:39+08:00 ] 127.0.0.1 /wish/Admin/Index/index
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'thinkphp.think_auth_group' doesn't exist
+

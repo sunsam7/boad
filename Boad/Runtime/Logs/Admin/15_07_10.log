@@ -1,0 +1,1371 @@
+[ 2015-07-10T11:48:21+08:00 ] 127.0.0.1 /wish/Admin/Index/ajax_act/?act=get_boadlist&id=4&order=1&page=1&perpage=50
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001059s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001702s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0054s ]
+SQL: SELECT `id`,`content`,`dig`,`comment_count`,`uptime` FROM `wp_aite_boadlist` WHERE ( tid = 4 ) ORDER BY id DESC LIMIT 0,50   [ RunTime:0.0010s ]
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002169s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002300s ]
+
+[ 2015-07-10T11:48:42+08:00 ] 127.0.0.1 /wish/Admin/Index/ajax_act/?act=get_boadlist&id=3&order=1&page=1&perpage=50
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000755s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001288s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0046s ]
+SQL: SELECT `id`,`content`,`dig`,`comment_count`,`uptime` FROM `wp_aite_boadlist` WHERE ( tid = 3 ) ORDER BY id DESC LIMIT 0,50   [ RunTime:0.0012s ]
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001123s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001391s ]
+
+[ 2015-07-10T11:48:57+08:00 ] 127.0.0.1 /wish/Admin/Index/ajax_act/?act=get_boadlist&id=4&order=1&page=1&perpage=50
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000683s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001144s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0046s ]
+SQL: SELECT `id`,`content`,`dig`,`comment_count`,`uptime` FROM `wp_aite_boadlist` WHERE ( tid = 4 ) ORDER BY id DESC LIMIT 0,50   [ RunTime:0.0003s ]
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000964s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001049s ]
+
+[ 2015-07-10T11:49:00+08:00 ] 127.0.0.1 /wish/Admin/Index/ajax_act/?act=get_boadlist&id=5&order=1&page=1&perpage=50
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001210s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001841s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0061s ]
+SQL: SELECT `id`,`content`,`dig`,`comment_count`,`uptime` FROM `wp_aite_boadlist` WHERE ( tid = 5 ) ORDER BY id DESC LIMIT 0,50   [ RunTime:0.0019s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\www\wish\Weibo\Admin\Common\function.php 第 14 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002750s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002849s ]
+
+[ 2015-07-10T11:49:07+08:00 ] 127.0.0.1 /wish/Admin/Index/ajax_act/?act=get_boadlist&id=4&order=1&page=1&perpage=50
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001228s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001915s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0055s ]
+SQL: SELECT `id`,`content`,`dig`,`comment_count`,`uptime` FROM `wp_aite_boadlist` WHERE ( tid = 4 ) ORDER BY id DESC LIMIT 0,50   [ RunTime:0.0066s ]
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001630s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001724s ]
+
+[ 2015-07-10T11:51:51+08:00 ] 127.0.0.1 /wish/Admin/Index/ajax_act/?act=get_boadlist&id=4&order=1&page=1&perpage=50
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001049s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001665s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0057s ]
+SQL: SELECT `id`,`content`,`dig`,`comment_count`,`uptime` FROM `wp_aite_boadlist` WHERE ( tid = 4 ) ORDER BY id DESC LIMIT 0,50   [ RunTime:0.0005s ]
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001373s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001482s ]
+
+[ 2015-07-10T11:52:14+08:00 ] 127.0.0.1 /wish/Admin/Index/ajax_act/?act=get_boadlist&id=4&order=1&page=1&perpage=5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001161s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001855s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0051s ]
+SQL: SELECT `id`,`content`,`dig`,`comment_count`,`uptime` FROM `wp_aite_boadlist` WHERE ( tid = 4 ) ORDER BY id DESC LIMIT 0,5   [ RunTime:0.0008s ]
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001397s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001486s ]
+
+[ 2015-07-10T13:50:22+08:00 ] 127.0.0.1 /wish/Admin/Index/ajax_act/?act=get_boadlist&id=4&order=1&page=1&perpage=5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001073s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001659s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0054s ]
+SQL: SELECT `id`,`content`,`dig`,`comment_count`,`uptime` FROM `wp_aite_boadlist` WHERE ( tid = 4 ) ORDER BY id DESC LIMIT 0,5   [ RunTime:0.0007s ]
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001205s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001270s ]
+
+[ 2015-07-10T14:10:44+08:00 ] 127.0.0.1 /wish/Admin/Index/ajax_act/?act=get_boadlist&id=4&order=1&page=1&perpage=5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001119s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001641s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0151s ]
+SQL: SELECT `id`,`content`,`dig`,`comment_count`,`uptime` FROM `wp_aite_boadlist` WHERE ( tid = 4 ) ORDER BY id DESC LIMIT 0,5   [ RunTime:0.0003s ]
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001450s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001530s ]
+
+[ 2015-07-10T14:11:29+08:00 ] 127.0.0.1 /wish/Admin/Index/ajax_act/?act=get_boadlist&id=4&order=1&page=1&perpage=5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001755s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002928s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0048s ]
+SQL: SELECT `id`,`content`,`dig`,`comment_count`,`uptime` FROM `wp_aite_boadlist` WHERE ( tid = 4 ) ORDER BY id DESC LIMIT 0,5   [ RunTime:0.0002s ]
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001165s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001224s ]
+
+[ 2015-07-10T14:12:00+08:00 ] 127.0.0.1 /wish/Admin/Index/ajax_act/?act=get_boadlist&id=4&order=1&page=1&perpage=5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001073s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001773s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0043s ]
+SQL: SELECT `id`,`content`,`dig`,`comment_count`,`uptime` FROM `wp_aite_boadlist` WHERE ( tid = 4 ) ORDER BY id DESC LIMIT 0,5   [ RunTime:0.0002s ]
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001119s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001179s ]
+
+[ 2015-07-10T14:12:36+08:00 ] 127.0.0.1 /wish/Admin/Index/ajax_act/?act=get_boadlist&id=4&order=1&page=1&perpage=5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001136s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001709s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0044s ]
+SQL: SELECT `id`,`content`,`dig`,`comment_count`,`uptime` FROM `wp_aite_boadlist` WHERE ( tid = 4 ) ORDER BY id DESC LIMIT 0,5   [ RunTime:0.0002s ]
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001166s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001225s ]
+
+[ 2015-07-10T14:18:14+08:00 ] 127.0.0.1 /wish/Admin/Index/ajax_act/?act=get_boadlist&id=4&order=1&page=1&perpage=5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001128s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001666s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0072s ]
+SQL: SELECT `id`,`content`,`dig`,`comment_count`,`uptime` FROM `wp_aite_boadlist` WHERE ( tid = 4 ) ORDER BY id DESC LIMIT 0,5   [ RunTime:0.0002s ]
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001371s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001439s ]
+
+[ 2015-07-10T14:18:26+08:00 ] 127.0.0.1 /wish/Admin/Index/ajax_act/?act=get_boadlist&id=4&order=1&page=1&perpage=5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001115s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001754s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0048s ]
+SQL: SELECT `id`,`content`,`dig`,`comment_count`,`uptime` FROM `wp_aite_boadlist` WHERE ( tid = 4 ) ORDER BY id DESC LIMIT 0,5   [ RunTime:0.0003s ]
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001351s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001432s ]
+
+[ 2015-07-10T14:18:30+08:00 ] 127.0.0.1 /wish/Admin/Index/ajax_act/?act=get_boadlist&id=4&order=1&page=2&perpage=5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000978s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001475s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0043s ]
+SQL: SELECT `id`,`content`,`dig`,`comment_count`,`uptime` FROM `wp_aite_boadlist` WHERE ( tid = 4 ) ORDER BY id DESC LIMIT 5,5   [ RunTime:0.0006s ]
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001088s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001146s ]
+
+[ 2015-07-10T14:18:34+08:00 ] 127.0.0.1 /wish/Admin/Index/ajax_act/?act=get_boadlist&id=4&order=1&page=3&perpage=5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000983s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001472s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0044s ]
+SQL: SELECT `id`,`content`,`dig`,`comment_count`,`uptime` FROM `wp_aite_boadlist` WHERE ( tid = 4 ) ORDER BY id DESC LIMIT 10,5   [ RunTime:0.0006s ]
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001228s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001293s ]
+
+[ 2015-07-10T14:18:46+08:00 ] 127.0.0.1 /wish/Admin/Index/ajax_act/?act=get_boadlist&id=4&order=1&page=1&perpage=5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001151s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001659s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0044s ]
+SQL: SELECT `id`,`content`,`dig`,`comment_count`,`uptime` FROM `wp_aite_boadlist` WHERE ( tid = 4 ) ORDER BY id DESC LIMIT 0,5   [ RunTime:0.0002s ]
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001359s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001425s ]
+
+[ 2015-07-10T14:20:24+08:00 ] 127.0.0.1 /wish/Admin/Index/ajax_act/?act=get_boadlist&id=4&order=1&page=1&perpage=5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001553s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0055s ]
+SQL: SELECT `id`,`content`,`dig`,`comment_count`,`uptime` FROM `wp_aite_boadlist` WHERE ( tid = 4 ) ORDER BY id DESC LIMIT 0,5   [ RunTime:0.0003s ]
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001366s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001439s ]
+
+[ 2015-07-10T14:20:50+08:00 ] 127.0.0.1 /wish/Admin/Index/ajax_act/?act=get_boadlist&id=4&order=1&page=1&perpage=5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001262s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002189s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0051s ]
+SQL: SELECT `id`,`content`,`dig`,`comment_count`,`uptime` FROM `wp_aite_boadlist` WHERE ( tid = 4 ) ORDER BY id DESC LIMIT 0,5   [ RunTime:0.0003s ]
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001207s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001279s ]
+
+[ 2015-07-10T14:21:50+08:00 ] 127.0.0.1 /wish/Admin/Index/ajax_act/?act=get_boadlist&id=4&order=1&page=1&perpage=5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001140s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001910s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0058s ]
+SQL: SELECT `id`,`content`,`dig`,`comment_count`,`uptime` FROM `wp_aite_boadlist` WHERE ( tid = 4 ) ORDER BY id DESC LIMIT 0,5   [ RunTime:0.0002s ]
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001276s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001339s ]
+
+[ 2015-07-10T14:22:05+08:00 ] 127.0.0.1 /wish/Admin/Index/ajax_act/?act=get_boadlist&id=5&order=1&page=1&perpage=5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001301s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001915s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0061s ]
+SQL: SELECT `id`,`content`,`dig`,`comment_count`,`uptime` FROM `wp_aite_boadlist` WHERE ( tid = 5 ) ORDER BY id DESC LIMIT 0,5   [ RunTime:0.0009s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\www\wish\Weibo\Admin\Common\function.php 第 14 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001418s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001499s ]
+
+[ 2015-07-10T14:22:10+08:00 ] 127.0.0.1 /wish/Admin/Index/boadcontent/tid/5
+ERR: 非法操作:boadcontent
+
+[ 2015-07-10T14:22:12+08:00 ] 127.0.0.1 /wish/Admin/Index/ajax_act/?act=get_boadlist&id=5&order=1&page=1&perpage=5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001296s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002105s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0057s ]
+SQL: SELECT `id`,`content`,`dig`,`comment_count`,`uptime` FROM `wp_aite_boadlist` WHERE ( tid = 5 ) ORDER BY id DESC LIMIT 0,5   [ RunTime:0.0003s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\www\wish\Weibo\Admin\Common\function.php 第 14 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001533s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001608s ]
+
+[ 2015-07-10T14:33:27+08:00 ] 127.0.0.1 /wish/Admin/Index/ajax_act/?act=get_boadlist&id=4&order=1&page=1&perpage=50
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001300s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001896s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0050s ]
+SQL: SELECT `id`,`content`,`dig`,`comment_count`,`uptime` FROM `wp_aite_boadlist` WHERE ( tid = 4 ) ORDER BY id DESC LIMIT 0,50   [ RunTime:0.0010s ]
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002273s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002369s ]
+
+[ 2015-07-10T14:38:10+08:00 ] 127.0.0.1 /wish/Admin/Index/ajax_act/?act=get_boadlist&id=4&order=1&page=1&perpage=50
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001070s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001713s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0057s ]
+SQL: SELECT `id`,`content`,`dig`,`comment_count`,`uptime` FROM `wp_aite_boadlist` WHERE ( tid = 4 ) ORDER BY id DESC LIMIT 0,50   [ RunTime:0.0006s ]
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001620s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001733s ]
+
+[ 2015-07-10T15:16:21+08:00 ] 127.0.0.1 /wish/Admin/Index/ajax_act/?act=get_boadlist&id=4&order=1&page=1&perpage=50
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001098s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001867s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0048s ]
+SQL: SELECT `id`,`content`,`dig`,`comment_count`,`uptime` FROM `wp_aite_boadlist` WHERE ( tid = 4 ) ORDER BY id DESC LIMIT 0,50   [ RunTime:0.0004s ]
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001304s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001404s ]
+
+[ 2015-07-10T15:16:25+08:00 ] 127.0.0.1 /wish/Admin/Index/ajax_act/?act=get_boadlist&id=4&order=1&page=1&perpage=50
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001123s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001735s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0049s ]
+SQL: SELECT `id`,`content`,`dig`,`comment_count`,`uptime` FROM `wp_aite_boadlist` WHERE ( tid = 4 ) ORDER BY id DESC LIMIT 0,50   [ RunTime:0.0004s ]
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001290s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001369s ]
+
+[ 2015-07-10T15:16:53+08:00 ] 127.0.0.1 /wish/Admin/Index/ajax_act/?act=get_boadlist&id=4&order=1&page=1&perpage=50
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000947s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001478s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0068s ]
+SQL: SELECT `id`,`content`,`dig`,`comment_count`,`uptime` FROM `wp_aite_boadlist` WHERE ( tid = 4 ) ORDER BY id DESC LIMIT 0,50   [ RunTime:0.0003s ]
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 15 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001457s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001556s ]
+
+[ 2015-07-10T15:20:50+08:00 ] 127.0.0.1 /wish/Admin/Index/ajax_act/?act=get_boadlist&id=4&order=1&page=1&perpage=50
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001076s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001719s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0084s ]
+SQL: SELECT `id`,`content`,`dig`,`comment_count`,`uptime` FROM `wp_aite_boadlist` WHERE ( tid = 4 ) ORDER BY id DESC LIMIT 0,50   [ RunTime:0.0003s ]
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 13 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 13 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 13 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 13 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 13 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 13 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 13 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 13 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 13 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 13 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 13 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 13 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 13 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 13 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 13 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 13 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 13 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 13 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 13 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 13 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 13 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 13 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 13 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 13 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 13 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 13 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 13 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 13 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 13 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 13 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001463s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001558s ]
+
+[ 2015-07-10T15:20:55+08:00 ] 127.0.0.1 /wish/Admin/Index/ajax_act/?act=get_boadlist&id=5&order=1&page=1&perpage=50
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001310s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002181s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0069s ]
+SQL: SELECT `id`,`content`,`dig`,`comment_count`,`uptime` FROM `wp_aite_boadlist` WHERE ( tid = 5 ) ORDER BY id DESC LIMIT 0,50   [ RunTime:0.0010s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\www\wish\Weibo\Admin\Common\function.php 第 12 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001791s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001882s ]
+
+[ 2015-07-10T15:58:21+08:00 ] 127.0.0.1 /wish/Admin/Index/boadcontent_save/
+ERR: SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: '' for column 'uptime' at row 1
+
+[ 2015-07-10T15:59:55+08:00 ] 127.0.0.1 /wish/Admin/Index/boadcontent_save/
+ERR: SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: '' for column 'uptime' at row 1
+
+[ 2015-07-10T16:01:19+08:00 ] 127.0.0.1 /wish/Admin/Index/ajax_act/?act=get_boadlist&id=5&order=1&page=1&perpage=50
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001077s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001697s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0054s ]
+SQL: SELECT `id`,`content`,`dig`,`comment_count`,`uptime` FROM `wp_aite_boadlist` WHERE ( tid = 5 ) ORDER BY id DESC LIMIT 0,50   [ RunTime:0.0004s ]
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 13 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 13 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001243s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001308s ]
+
+[ 2015-07-10T16:01:32+08:00 ] 127.0.0.1 /wish/Admin/Index/ajax_act/?act=get_boadlist&id=5&order=1&page=1&perpage=50
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001555s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0059s ]
+SQL: SELECT `id`,`content`,`dig`,`comment_count`,`uptime` FROM `wp_aite_boadlist` WHERE ( tid = 5 ) ORDER BY id DESC LIMIT 0,50   [ RunTime:0.0009s ]
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 13 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 13 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001389s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001471s ]
+
+[ 2015-07-10T16:01:43+08:00 ] 127.0.0.1 /wish/Admin/Index/ajax_act/?act=get_boadlist&id=5&order=1&page=1&perpage=50
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001909s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002997s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0052s ]
+SQL: SELECT `id`,`content`,`dig`,`comment_count`,`uptime` FROM `wp_aite_boadlist` WHERE ( tid = 5 ) ORDER BY id DESC LIMIT 0,50   [ RunTime:0.0005s ]
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 13 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 13 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002035s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002113s ]
+
+[ 2015-07-10T17:09:10+08:00 ] 127.0.0.1 /wish/Admin/Index/ajax_act/?act=get_boadlist&id=5&order=1&page=1&perpage=50
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001094s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001688s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0069s ]
+SQL: SELECT `id`,`content`,`dig`,`comment_count`,`uptime` FROM `wp_aite_boadlist` WHERE ( tid = 5 ) ORDER BY id DESC LIMIT 0,50   [ RunTime:0.0003s ]
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 13 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 13 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001234s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001307s ]
+
+[ 2015-07-10T17:19:03+08:00 ] 127.0.0.1 /wish/Admin/Index/ajax_act/?act=get_boadlist&id=5&order=1&page=1&perpage=50
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001277s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002074s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0055s ]
+SQL: SELECT `id`,`content`,`dig`,`comment_count`,`uptime` FROM `wp_aite_boadlist` WHERE ( tid = 5 ) ORDER BY id DESC LIMIT 0,50   [ RunTime:0.0002s ]
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 13 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 13 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001537s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001633s ]
+
+[ 2015-07-10T17:51:34+08:00 ] 127.0.0.1 /wish/Admin/Index/ajax_act/?act=get_boadlist&id=5&order=1&page=1&perpage=50
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001131s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001764s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0051s ]
+SQL: SELECT `id`,`content`,`dig`,`comment_count`,`uptime` FROM `wp_aite_boadlist` WHERE ( tid = 5 ) ORDER BY id DESC LIMIT 0,50   [ RunTime:0.0006s ]
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 13 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 13 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001219s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001291s ]
+
+[ 2015-07-10T17:53:38+08:00 ] 127.0.0.1 /wish/Admin/Index/ajax_act/?act=get_boadlist&id=5&order=1&page=1&perpage=50
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000931s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001457s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0056s ]
+SQL: SELECT `id`,`content`,`dig`,`comment_count`,`uptime` FROM `wp_aite_boadlist` WHERE ( tid = 5 ) ORDER BY id DESC LIMIT 0,50   [ RunTime:0.0004s ]
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 13 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 13 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001943s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002074s ]
+
+[ 2015-07-10T17:58:01+08:00 ] 127.0.0.1 /wish/Admin/Index/ajax_act/?act=get_boadlist&id=5&order=1&page=1&perpage=50
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001089s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001605s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0046s ]
+SQL: SELECT `id`,`content`,`dig`,`comment_count`,`uptime` FROM `wp_aite_boadlist` WHERE ( tid = 5 ) ORDER BY id DESC LIMIT 0,50   [ RunTime:0.0004s ]
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 13 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 13 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001049s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001107s ]
+
+[ 2015-07-10T18:17:00+08:00 ] 127.0.0.1 /wish/Admin/Index/ajax_act/?act=get_boadlist&id=5&order=1&page=1&perpage=50
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001571s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002260s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0054s ]
+SQL: SELECT `id`,`content`,`dig`,`comment_count`,`uptime` FROM `wp_aite_boadlist` WHERE ( tid = 5 ) ORDER BY id DESC LIMIT 0,50   [ RunTime:0.0006s ]
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 13 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 13 行.
+NOTIC: [8] Trying to get property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 13 行.
+NOTIC: [2] Attempt to assign property of non-object E:\www\wish\Weibo\Admin\Common\function.php 第 13 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001392s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001655s ]
+
+[ 2015-07-10T21:28:32+08:00 ] ::1 /boad/Admin/Index/ajax_act/?act=get_boadlist&id=4&order=1&page=1&perpage=50
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000514s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001175s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0033s ]
+SQL: SELECT `id`,`content`,`dig`,`comment_count`,`uptime` FROM `wp_aite_boadlist` WHERE ( tid = 4 ) ORDER BY id DESC LIMIT 0,50   [ RunTime:0.0003s ]
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\boad\Boad\Admin\Common\function.php 第 12 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000565s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000649s ]
+
+[ 2015-07-10T21:29:40+08:00 ] ::1 /boad/Admin/Index/ajax_act/?act=get_boadlist&id=4&order=1&page=1&perpage=50
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000635s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001049s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0029s ]
+SQL: SELECT `id`,`content`,`dig`,`comment_count`,`uptime` FROM `wp_aite_boadlist` WHERE ( tid = 4 ) ORDER BY id DESC LIMIT 0,50   [ RunTime:0.0002s ]
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\boad\Boad\Admin\Common\function.php 第 12 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000710s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000799s ]
+
+[ 2015-07-10T21:39:33+08:00 ] ::1 /boad/Admin/Index/ajax_act/?act=get_boadlist&id=4&order=1&page=1&perpage=50
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000702s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001174s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0032s ]
+SQL: SELECT `id`,`content`,`dig`,`comment_count`,`uptime` FROM `wp_aite_boadlist` WHERE ( tid = 4 ) ORDER BY id DESC LIMIT 0,50   [ RunTime:0.0003s ]
+NOTIC: [8] Trying to get property of non-object D:\wamp\www\boad\Boad\Admin\Common\function.php 第 13 行.
+NOTIC: [2] Attempt to assign property of non-object D:\wamp\www\boad\Boad\Admin\Common\function.php 第 13 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000739s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000815s ]
+
+[ 2015-07-10T21:40:42+08:00 ] ::1 /boad/Admin/Index/ajax_act/?act=get_boadlist&id=4&order=1&page=1&perpage=50
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000467s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000846s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0040s ]
+SQL: SELECT `id`,`content`,`dig`,`comment_count`,`uptime` FROM `wp_aite_boadlist` WHERE ( tid = 4 ) ORDER BY id DESC LIMIT 0,50   [ RunTime:0.0004s ]
+NOTIC: [8] Trying to get property of non-object D:\wamp\www\boad\Boad\Admin\Common\function.php 第 13 行.
+NOTIC: [2] Attempt to assign property of non-object D:\wamp\www\boad\Boad\Admin\Common\function.php 第 13 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000554s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000654s ]
+
+[ 2015-07-10T21:42:12+08:00 ] ::1 /boad/Admin/Index/ajax_act/?act=get_boadlist&id=4&order=1&page=1&perpage=50
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000607s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001058s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0150s ]
+SQL: SELECT `id`,`content`,`dig`,`comment_count`,`uptime` FROM `wp_aite_boadlist` WHERE ( tid = 4 ) ORDER BY id DESC LIMIT 0,50   [ RunTime:0.0004s ]
+NOTIC: [8] Trying to get property of non-object D:\wamp\www\boad\Boad\Admin\Common\function.php 第 13 行.
+NOTIC: [2] Attempt to assign property of non-object D:\wamp\www\boad\Boad\Admin\Common\function.php 第 13 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000767s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000850s ]
+
+[ 2015-07-10T21:59:33+08:00 ] ::1 /boad/Admin/Index/ajax_act/?act=get_boadlist&id=4&order=1&page=1&perpage=50
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000453s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000806s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0295s ]
+SQL: SELECT `id`,`content`,`dig`,`comment_count`,`uptime` FROM `wp_aite_boadlist` WHERE ( tid = 4 ) ORDER BY id DESC LIMIT 0,50   [ RunTime:0.0002s ]
+NOTIC: [8] Trying to get property of non-object D:\wamp\www\boad\Boad\Admin\Common\function.php 第 13 行.
+NOTIC: [2] Attempt to assign property of non-object D:\wamp\www\boad\Boad\Admin\Common\function.php 第 13 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000529s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000613s ]
+
+[ 2015-07-10T22:01:26+08:00 ] ::1 /boad/Admin/Index/ajax_act/?act=get_boadlist&id=4&order=1&page=1&perpage=50
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000583s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000956s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0030s ]
+SQL: SELECT `id`,`content`,`dig`,`comment_count`,`uptime` FROM `wp_aite_boadlist` WHERE ( tid = 4 ) ORDER BY id DESC LIMIT 0,50   [ RunTime:0.0003s ]
+NOTIC: [8] Trying to get property of non-object D:\wamp\www\boad\Boad\Admin\Common\function.php 第 13 行.
+NOTIC: [2] Attempt to assign property of non-object D:\wamp\www\boad\Boad\Admin\Common\function.php 第 13 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000744s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000818s ]
+
+[ 2015-07-10T22:04:41+08:00 ] ::1 /boad/Admin/Index/ajax_act/
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000554s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000903s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000581s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000660s ]
+
+[ 2015-07-10T22:31:14+08:00 ] ::1 /boad/Admin/Index/ajax_act/?act=get_boadlist&id=4&order=1&page=1&perpage=50
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000620s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001016s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0273s ]
+SQL: SELECT `id`,`content`,`dig`,`comment_count`,`uptime` FROM `wp_aite_boadlist` WHERE ( tid = 4 ) ORDER BY id DESC LIMIT 0,50   [ RunTime:0.0003s ]
+NOTIC: [8] Trying to get property of non-object D:\wamp\www\boad\Boad\Admin\Common\function.php 第 13 行.
+NOTIC: [2] Attempt to assign property of non-object D:\wamp\www\boad\Boad\Admin\Common\function.php 第 13 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000729s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000817s ]
+
+[ 2015-07-10T22:31:51+08:00 ] ::1 /boad/Admin/Index/ajax_act/
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000400s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000710s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0031s ]
+SQL: DELETE FROM `wp_aite_boadlist` WHERE ( id=49 ) [ RunTime:0.0124s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadcomment` [ RunTime:0.0030s ]
+SQL: SELECT `boadtitle_id`,count(*) as ct FROM `wp_aite_boadcomment` WHERE ( boadlist_id=49 )  [ RunTime:0.0040s ]
+SQL: DELETE FROM `wp_aite_boadcomment` WHERE ( boadlist_id=49 ) [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadtitle` [ RunTime:0.0026s ]
+NOTIC: [8] Undefined index: boadtitle_id D:\wamp\www\boad\Boad\Admin\Controller\IndexController.class.php 第 152 行.
+NOTIC: [8] Undefined index: ct D:\wamp\www\boad\Boad\Admin\Controller\IndexController.class.php 第 152 行.
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE ( id=%d )' at line 1
+
+[ 2015-07-10T22:38:24+08:00 ] ::1 /boad/Admin/Index/ajax_act/?act=get_boadlist&id=4&order=1&page=1&perpage=50
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000608s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001010s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0176s ]
+SQL: SELECT `id`,`content`,`dig`,`comment_count`,`uptime` FROM `wp_aite_boadlist` WHERE ( tid = 4 ) ORDER BY id DESC LIMIT 0,50   [ RunTime:0.0002s ]
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\boad\Boad\Admin\Common\function.php 第 12 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000708s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000793s ]
+
+[ 2015-07-10T22:39:36+08:00 ] ::1 /boad/Admin/Index/ajax_act/?act=get_boadlist&id=4&order=1&page=1&perpage=50
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000594s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000967s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0035s ]
+SQL: SELECT `id`,`content`,`dig`,`comment_count`,`uptime` FROM `wp_aite_boadlist` WHERE ( tid = 4 ) ORDER BY id DESC LIMIT 0,50   [ RunTime:0.0003s ]
+NOTIC: [8] Trying to get property of non-object D:\wamp\www\boad\Boad\Admin\Common\function.php 第 13 行.
+NOTIC: [2] Attempt to assign property of non-object D:\wamp\www\boad\Boad\Admin\Common\function.php 第 13 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000693s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000769s ]
+
+[ 2015-07-10T22:39:48+08:00 ] ::1 /boad/Admin/Index/ajax_act/?act=get_boadlist&id=4&order=1&page=1&perpage=50
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000687s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001049s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0033s ]
+SQL: SELECT `id`,`content`,`dig`,`comment_count`,`uptime` FROM `wp_aite_boadlist` WHERE ( tid = 4 ) ORDER BY id DESC LIMIT 0,50   [ RunTime:0.0003s ]
+NOTIC: [8] Trying to get property of non-object D:\wamp\www\boad\Boad\Admin\Common\function.php 第 13 行.
+NOTIC: [2] Attempt to assign property of non-object D:\wamp\www\boad\Boad\Admin\Common\function.php 第 13 行.
+NOTIC: [8] Trying to get property of non-object D:\wamp\www\boad\Boad\Admin\Common\function.php 第 13 行.
+NOTIC: [2] Attempt to assign property of non-object D:\wamp\www\boad\Boad\Admin\Common\function.php 第 13 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000712s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000792s ]
+
+[ 2015-07-10T22:39:59+08:00 ] ::1 /boad/Admin/Index/ajax_act/
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000535s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000914s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0032s ]
+SQL: DELETE FROM `wp_aite_boadlist` WHERE ( id=50 ) [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadcomment` [ RunTime:0.0027s ]
+SQL: SELECT `boadtitle_id`,count(*) as ct FROM `wp_aite_boadcomment` WHERE ( boadlist_id=48 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: DELETE FROM `wp_aite_boadcomment` WHERE ( boadlist_id=50 ) [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadtitle` [ RunTime:0.0027s ]
+SQL: UPDATE `wp_aite_boadtitle` SET `comment_count`=comment_count-2 WHERE ( id=3 ) [ RunTime:0.0271s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000726s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000816s ]
+
+[ 2015-07-10T22:40:44+08:00 ] ::1 /boad/Admin/Index/ajax_act/?act=get_boadlist&id=4&order=1&page=1&perpage=50
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000688s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001119s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0095s ]
+SQL: SELECT `id`,`content`,`dig`,`comment_count`,`uptime` FROM `wp_aite_boadlist` WHERE ( tid = 4 ) ORDER BY id DESC LIMIT 0,50   [ RunTime:0.0003s ]
+NOTIC: [8] Trying to get property of non-object D:\wamp\www\boad\Boad\Admin\Common\function.php 第 13 行.
+NOTIC: [2] Attempt to assign property of non-object D:\wamp\www\boad\Boad\Admin\Common\function.php 第 13 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000797s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000877s ]
+
+[ 2015-07-10T22:40:45+08:00 ] ::1 /boad/Admin/Index/ajax_act/?act=get_boadlist&id=4&order=1&page=1&perpage=50
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000915s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001389s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0237s ]
+SQL: SELECT `id`,`content`,`dig`,`comment_count`,`uptime` FROM `wp_aite_boadlist` WHERE ( tid = 4 ) ORDER BY id DESC LIMIT 0,50   [ RunTime:0.0005s ]
+NOTIC: [8] Trying to get property of non-object D:\wamp\www\boad\Boad\Admin\Common\function.php 第 13 行.
+NOTIC: [2] Attempt to assign property of non-object D:\wamp\www\boad\Boad\Admin\Common\function.php 第 13 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001007s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001138s ]
+
+[ 2015-07-10T22:50:00+08:00 ] ::1 /boad/Admin/Index/ajax_act/?act=get_boadlist&id=4&order=1&page=1&perpage=50
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000597s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000990s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0036s ]
+SQL: SELECT `id`,`content`,`dig`,`comment_count`,`uptime` FROM `wp_aite_boadlist` WHERE ( tid = 4 ) ORDER BY id DESC LIMIT 0,50   [ RunTime:0.0006s ]
+NOTIC: [8] Trying to get property of non-object D:\wamp\www\boad\Boad\Admin\Common\function.php 第 13 行.
+NOTIC: [2] Attempt to assign property of non-object D:\wamp\www\boad\Boad\Admin\Common\function.php 第 13 行.
+NOTIC: [8] Trying to get property of non-object D:\wamp\www\boad\Boad\Admin\Common\function.php 第 13 行.
+NOTIC: [2] Attempt to assign property of non-object D:\wamp\www\boad\Boad\Admin\Common\function.php 第 13 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000709s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000791s ]
+
+[ 2015-07-10T22:50:01+08:00 ] ::1 /boad/Admin/Index/ajax_act/?act=get_boadlist&id=4&order=1&page=1&perpage=50
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000650s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001166s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0114s ]
+SQL: SELECT `id`,`content`,`dig`,`comment_count`,`uptime` FROM `wp_aite_boadlist` WHERE ( tid = 4 ) ORDER BY id DESC LIMIT 0,50   [ RunTime:0.0003s ]
+NOTIC: [8] Trying to get property of non-object D:\wamp\www\boad\Boad\Admin\Common\function.php 第 13 行.
+NOTIC: [2] Attempt to assign property of non-object D:\wamp\www\boad\Boad\Admin\Common\function.php 第 13 行.
+NOTIC: [8] Trying to get property of non-object D:\wamp\www\boad\Boad\Admin\Common\function.php 第 13 行.
+NOTIC: [2] Attempt to assign property of non-object D:\wamp\www\boad\Boad\Admin\Common\function.php 第 13 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000723s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000805s ]
+
+[ 2015-07-10T22:50:01+08:00 ] ::1 /boad/Admin/Index/ajax_act/?act=get_boadlist&id=4&order=1&page=1&perpage=50
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000647s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001111s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0094s ]
+SQL: SELECT `id`,`content`,`dig`,`comment_count`,`uptime` FROM `wp_aite_boadlist` WHERE ( tid = 4 ) ORDER BY id DESC LIMIT 0,50   [ RunTime:0.0004s ]
+NOTIC: [8] Trying to get property of non-object D:\wamp\www\boad\Boad\Admin\Common\function.php 第 13 行.
+NOTIC: [2] Attempt to assign property of non-object D:\wamp\www\boad\Boad\Admin\Common\function.php 第 13 行.
+NOTIC: [8] Trying to get property of non-object D:\wamp\www\boad\Boad\Admin\Common\function.php 第 13 行.
+NOTIC: [2] Attempt to assign property of non-object D:\wamp\www\boad\Boad\Admin\Common\function.php 第 13 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000733s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000834s ]
+
+[ 2015-07-10T22:50:16+08:00 ] ::1 /boad/Admin/Index/ajax_act/
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000567s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000932s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0029s ]
+SQL: DELETE FROM `wp_aite_boadlist` WHERE ( id=52 ) [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadcomment` [ RunTime:0.0027s ]
+SQL: SELECT `boadtitle_id`,count(*) as ct FROM `wp_aite_boadcomment` WHERE ( boadlist_id=48 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: DELETE FROM `wp_aite_boadcomment` WHERE ( boadlist_id=52 ) [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadtitle` [ RunTime:0.0032s ]
+SQL: UPDATE `wp_aite_boadtitle` SET `comment_count`=comment_count-2 WHERE ( id=3 ) [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000676s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000758s ]
+
+[ 2015-07-10T22:55:36+08:00 ] ::1 /boad/Admin/Index/ajax_act/?act=get_boadlist&id=4&order=1&page=1&perpage=50
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000410s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000743s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0134s ]
+SQL: SELECT `id`,`content`,`dig`,`comment_count`,`uptime` FROM `wp_aite_boadlist` WHERE ( tid = 4 ) ORDER BY id DESC LIMIT 0,50   [ RunTime:0.0003s ]
+NOTIC: [8] Trying to get property of non-object D:\wamp\www\boad\Boad\Admin\Common\function.php 第 13 行.
+NOTIC: [2] Attempt to assign property of non-object D:\wamp\www\boad\Boad\Admin\Common\function.php 第 13 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000540s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000616s ]
+
+[ 2015-07-10T22:55:37+08:00 ] ::1 /boad/Admin/Index/ajax_act/?act=get_boadlist&id=4&order=1&page=1&perpage=50
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000430s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000779s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0113s ]
+SQL: SELECT `id`,`content`,`dig`,`comment_count`,`uptime` FROM `wp_aite_boadlist` WHERE ( tid = 4 ) ORDER BY id DESC LIMIT 0,50   [ RunTime:0.0003s ]
+NOTIC: [8] Trying to get property of non-object D:\wamp\www\boad\Boad\Admin\Common\function.php 第 13 行.
+NOTIC: [2] Attempt to assign property of non-object D:\wamp\www\boad\Boad\Admin\Common\function.php 第 13 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000639s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000720s ]
+
+[ 2015-07-10T23:02:10+08:00 ] ::1 /boad/Admin/Index/ajax_act/?act=get_boadlist&id=4&order=1&page=1&perpage=50
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000709s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001115s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0035s ]
+SQL: SELECT `id`,`content`,`dig`,`comment_count`,`uptime` FROM `wp_aite_boadlist` WHERE ( tid = 4 ) ORDER BY id DESC LIMIT 0,50   [ RunTime:0.0004s ]
+NOTIC: [8] Trying to get property of non-object D:\wamp\www\boad\Boad\Admin\Common\function.php 第 13 行.
+NOTIC: [2] Attempt to assign property of non-object D:\wamp\www\boad\Boad\Admin\Common\function.php 第 13 行.
+NOTIC: [8] Trying to get property of non-object D:\wamp\www\boad\Boad\Admin\Common\function.php 第 13 行.
+NOTIC: [2] Attempt to assign property of non-object D:\wamp\www\boad\Boad\Admin\Common\function.php 第 13 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000841s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000920s ]
+
+[ 2015-07-10T23:02:11+08:00 ] ::1 /boad/Admin/Index/ajax_act/?act=get_boadlist&id=4&order=1&page=1&perpage=50
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000792s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001224s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0056s ]
+SQL: SELECT `id`,`content`,`dig`,`comment_count`,`uptime` FROM `wp_aite_boadlist` WHERE ( tid = 4 ) ORDER BY id DESC LIMIT 0,50   [ RunTime:0.0003s ]
+NOTIC: [8] Trying to get property of non-object D:\wamp\www\boad\Boad\Admin\Common\function.php 第 13 行.
+NOTIC: [2] Attempt to assign property of non-object D:\wamp\www\boad\Boad\Admin\Common\function.php 第 13 行.
+NOTIC: [8] Trying to get property of non-object D:\wamp\www\boad\Boad\Admin\Common\function.php 第 13 行.
+NOTIC: [2] Attempt to assign property of non-object D:\wamp\www\boad\Boad\Admin\Common\function.php 第 13 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000859s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000946s ]
+
+[ 2015-07-10T23:02:12+08:00 ] ::1 /boad/Admin/Index/ajax_act/?act=get_boadlist&id=4&order=1&page=1&perpage=50
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000723s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001156s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0091s ]
+SQL: SELECT `id`,`content`,`dig`,`comment_count`,`uptime` FROM `wp_aite_boadlist` WHERE ( tid = 4 ) ORDER BY id DESC LIMIT 0,50   [ RunTime:0.0004s ]
+NOTIC: [8] Trying to get property of non-object D:\wamp\www\boad\Boad\Admin\Common\function.php 第 13 行.
+NOTIC: [2] Attempt to assign property of non-object D:\wamp\www\boad\Boad\Admin\Common\function.php 第 13 行.
+NOTIC: [8] Trying to get property of non-object D:\wamp\www\boad\Boad\Admin\Common\function.php 第 13 行.
+NOTIC: [2] Attempt to assign property of non-object D:\wamp\www\boad\Boad\Admin\Common\function.php 第 13 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001030s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001169s ]
+
+[ 2015-07-10T23:02:15+08:00 ] ::1 /boad/Admin/Index/ajax_act/?act=get_boadlist&id=4&order=1&page=1&perpage=50
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000806s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001287s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0038s ]
+SQL: SELECT `id`,`content`,`dig`,`comment_count`,`uptime` FROM `wp_aite_boadlist` WHERE ( tid = 4 ) ORDER BY id DESC LIMIT 0,50   [ RunTime:0.0003s ]
+NOTIC: [8] Trying to get property of non-object D:\wamp\www\boad\Boad\Admin\Common\function.php 第 13 行.
+NOTIC: [2] Attempt to assign property of non-object D:\wamp\www\boad\Boad\Admin\Common\function.php 第 13 行.
+NOTIC: [8] Trying to get property of non-object D:\wamp\www\boad\Boad\Admin\Common\function.php 第 13 行.
+NOTIC: [2] Attempt to assign property of non-object D:\wamp\www\boad\Boad\Admin\Common\function.php 第 13 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000853s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000959s ]
+
+[ 2015-07-10T23:02:16+08:00 ] ::1 /boad/Admin/Index/ajax_act/?act=get_boadlist&id=4&order=1&page=1&perpage=50
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000759s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001282s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0042s ]
+SQL: SELECT `id`,`content`,`dig`,`comment_count`,`uptime` FROM `wp_aite_boadlist` WHERE ( tid = 4 ) ORDER BY id DESC LIMIT 0,50   [ RunTime:0.0003s ]
+NOTIC: [8] Trying to get property of non-object D:\wamp\www\boad\Boad\Admin\Common\function.php 第 13 行.
+NOTIC: [2] Attempt to assign property of non-object D:\wamp\www\boad\Boad\Admin\Common\function.php 第 13 行.
+NOTIC: [8] Trying to get property of non-object D:\wamp\www\boad\Boad\Admin\Common\function.php 第 13 行.
+NOTIC: [2] Attempt to assign property of non-object D:\wamp\www\boad\Boad\Admin\Common\function.php 第 13 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000892s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000972s ]
+
+[ 2015-07-10T23:03:14+08:00 ] ::1 /boad/Admin/Index/ajax_act/
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000578s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000937s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0034s ]
+SQL: DELETE FROM `wp_aite_boadlist` WHERE ( id=53 ) [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadcomment` [ RunTime:0.0031s ]
+SQL: SELECT `boadtitle_id`,count(*) as ct FROM `wp_aite_boadcomment` WHERE ( boadlist_id=53 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: DELETE FROM `wp_aite_boadcomment` WHERE ( boadlist_id=53 ) [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadtitle` [ RunTime:0.0029s ]
+SQL: UPDATE `wp_aite_boadtitle` SET `comment_count`=comment_count-2 WHERE ( id=4 ) [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000688s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000765s ]
+
+[ 2015-07-10T23:04:04+08:00 ] ::1 /boad/Admin/Index/ajax_act/?act=get_boadlist&id=4&order=1&page=1&perpage=50
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000726s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001122s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0073s ]
+SQL: SELECT `id`,`content`,`dig`,`comment_count`,`uptime` FROM `wp_aite_boadlist` WHERE ( tid = 4 ) ORDER BY id DESC LIMIT 0,50   [ RunTime:0.0003s ]
+NOTIC: [8] Trying to get property of non-object D:\wamp\www\boad\Boad\Admin\Common\function.php 第 13 行.
+NOTIC: [2] Attempt to assign property of non-object D:\wamp\www\boad\Boad\Admin\Common\function.php 第 13 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000868s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000954s ]
+
+[ 2015-07-10T23:04:05+08:00 ] ::1 /boad/Admin/Index/ajax_act/?act=get_boadlist&id=4&order=1&page=1&perpage=50
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000730s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001153s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0042s ]
+SQL: SELECT `id`,`content`,`dig`,`comment_count`,`uptime` FROM `wp_aite_boadlist` WHERE ( tid = 4 ) ORDER BY id DESC LIMIT 0,50   [ RunTime:0.0004s ]
+NOTIC: [8] Trying to get property of non-object D:\wamp\www\boad\Boad\Admin\Common\function.php 第 13 行.
+NOTIC: [2] Attempt to assign property of non-object D:\wamp\www\boad\Boad\Admin\Common\function.php 第 13 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000888s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000984s ]
+
+[ 2015-07-10T23:04:05+08:00 ] ::1 /boad/Admin/Index/ajax_act/?act=get_boadlist&id=4&order=1&page=1&perpage=50
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000736s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001126s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0057s ]
+SQL: SELECT `id`,`content`,`dig`,`comment_count`,`uptime` FROM `wp_aite_boadlist` WHERE ( tid = 4 ) ORDER BY id DESC LIMIT 0,50   [ RunTime:0.0005s ]
+NOTIC: [8] Trying to get property of non-object D:\wamp\www\boad\Boad\Admin\Common\function.php 第 13 行.
+NOTIC: [2] Attempt to assign property of non-object D:\wamp\www\boad\Boad\Admin\Common\function.php 第 13 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000937s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001014s ]
+
+[ 2015-07-10T23:50:15+08:00 ] ::1 /boad/Admin/Index/ajax_act/?act=get_boadlist&id=4&order=1&page=1&perpage=50
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000595s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000988s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0108s ]
+SQL: SELECT `id`,`content`,`dig`,`comment_count`,`uptime` FROM `wp_aite_boadlist` WHERE ( tid = 4 ) ORDER BY id DESC LIMIT 0,50   [ RunTime:0.0002s ]
+NOTIC: [8] Trying to get property of non-object D:\wamp\www\boad\Boad\Admin\Common\function.php 第 13 行.
+NOTIC: [2] Attempt to assign property of non-object D:\wamp\www\boad\Boad\Admin\Common\function.php 第 13 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000645s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000721s ]
+
+[ 2015-07-10T23:50:16+08:00 ] ::1 /boad/Admin/Index/ajax_act/?act=get_boadlist&id=4&order=1&page=1&perpage=50
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000628s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001040s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0034s ]
+SQL: SELECT `id`,`content`,`dig`,`comment_count`,`uptime` FROM `wp_aite_boadlist` WHERE ( tid = 4 ) ORDER BY id DESC LIMIT 0,50   [ RunTime:0.0003s ]
+NOTIC: [8] Trying to get property of non-object D:\wamp\www\boad\Boad\Admin\Common\function.php 第 13 行.
+NOTIC: [2] Attempt to assign property of non-object D:\wamp\www\boad\Boad\Admin\Common\function.php 第 13 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000721s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000801s ]
+
+[ 2015-07-10T23:58:26+08:00 ] ::1 /boad/Admin/Index/ajax_act/
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000679s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001066s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadtitle` [ RunTime:0.0034s ]
+SQL: DELETE FROM `wp_aite_boadtitle` WHERE ( id=4 ) [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0031s ]
+SQL: DELETE FROM `wp_aite_boadlist` WHERE ( tid=4 ) [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadcomment` [ RunTime:0.0029s ]
+SQL: DELETE FROM `wp_aite_boadcomment` WHERE ( boadtitle_id=4 ) [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000761s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000840s ]
+

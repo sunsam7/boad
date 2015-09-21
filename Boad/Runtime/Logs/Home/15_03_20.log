@@ -1,0 +1,9 @@
+[ 2015-03-20T11:13:00+08:00 ] 127.0.0.1 /wish/Home/User/create/
+ERR: SQLSTATE[HY000]: General error: 1364 Field 'time' doesn't have a default value
+
+[ 2015-03-20T11:40:24+08:00 ] 127.0.0.1 /wish/Home/User/create/
+ERR: SQLSTATE[HY000]: General error: 1364 Field 'username' doesn't have a default value
+
+[ 2015-03-20T15:33:45+08:00 ] 127.0.0.1 /wish/Home/User/test/
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'where )' at line 1
+

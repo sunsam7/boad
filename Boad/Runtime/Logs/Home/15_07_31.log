@@ -1,0 +1,2510 @@
+[ 2015-07-31T11:37:42+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002210s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003144s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0088s ]
+SQL: SELECT `id`,`content`,`dig`,`comment_count`,`uptime` FROM `wp_aite_boadlist` WHERE ( tid=3 ) ORDER BY id DESC LIMIT 0,5   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001392s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001475s ]
+
+[ 2015-07-31T11:38:13+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001347s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001980s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0306s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001271s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001329s ]
+
+[ 2015-07-31T11:38:44+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001268s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001840s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0063s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001268s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001324s ]
+
+[ 2015-07-31T11:39:15+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006791s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007418s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0067s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001277s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001335s ]
+
+[ 2015-07-31T11:39:45+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001090s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001652s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0064s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001260s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001316s ]
+
+[ 2015-07-31T11:40:15+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001213s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001842s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0065s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001253s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001310s ]
+
+[ 2015-07-31T11:40:46+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001109s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001709s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0068s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001304s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001362s ]
+
+[ 2015-07-31T11:41:16+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001171s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001693s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0070s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001335s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001395s ]
+
+[ 2015-07-31T11:41:47+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001155s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001733s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0071s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001271s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001334s ]
+
+[ 2015-07-31T11:42:17+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001262s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001837s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0068s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001271s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001329s ]
+
+[ 2015-07-31T11:42:47+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001260s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001900s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0071s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001417s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001483s ]
+
+[ 2015-07-31T11:43:18+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001542s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002144s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0067s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001272s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001329s ]
+
+[ 2015-07-31T11:43:49+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001157s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001758s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0066s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001306s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001366s ]
+
+[ 2015-07-31T11:44:19+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001266s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001839s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0071s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001278s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001337s ]
+
+[ 2015-07-31T11:44:50+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001274s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001959s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0066s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001274s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001331s ]
+
+[ 2015-07-31T11:45:20+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001335s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001916s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0064s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001275s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001332s ]
+
+[ 2015-07-31T11:45:51+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001324s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001965s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0065s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001260s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001317s ]
+
+[ 2015-07-31T11:46:21+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001260s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001837s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0065s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001265s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001321s ]
+
+[ 2015-07-31T11:46:52+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001109s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001670s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0069s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001335s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001398s ]
+
+[ 2015-07-31T11:47:23+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001148s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001645s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0065s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001351s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001411s ]
+
+[ 2015-07-31T11:47:54+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001205s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001818s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0075s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001331s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001392s ]
+
+[ 2015-07-31T11:48:13+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_boadlist_comment_all&title_id=3&page=1&perpage=20
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001127s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001660s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadcomment` [ RunTime:0.0066s ]
+SQL: SELECT `id`,`parent`,`username`,`content`,`dig`,`floor`,`time` FROM `wp_aite_boadcomment` WHERE ( boadtitle_id = 3 ) ORDER BY id desc  [ RunTime:0.0403s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001438s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001510s ]
+
+[ 2015-07-31T11:48:15+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=dig_boad&type=1&id=148&org=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001117s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001616s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadcomment` [ RunTime:0.0065s ]
+SQL: UPDATE `wp_aite_boadcomment` SET `dig`=dig+1 WHERE ( id=148 ) [ RunTime:0.0990s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001448s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001517s ]
+
+[ 2015-07-31T11:48:24+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001086s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001645s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0065s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001288s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001346s ]
+
+[ 2015-07-31T11:48:54+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001268s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001915s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0072s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001307s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001371s ]
+
+[ 2015-07-31T11:49:24+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001352s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001983s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0069s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001476s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001540s ]
+
+[ 2015-07-31T11:49:54+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001267s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001911s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0066s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001268s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001324s ]
+
+[ 2015-07-31T11:50:24+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001322s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001954s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0065s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001252s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001308s ]
+
+[ 2015-07-31T11:50:55+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001156s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001762s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0064s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001293s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001350s ]
+
+[ 2015-07-31T11:51:26+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001382s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001979s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0070s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001258s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001313s ]
+
+[ 2015-07-31T11:51:57+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001293s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001937s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0065s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001284s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001341s ]
+
+[ 2015-07-31T11:52:28+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001135s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001662s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0067s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001255s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001310s ]
+
+[ 2015-07-31T11:52:59+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001342s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001984s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0064s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001293s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001351s ]
+
+[ 2015-07-31T11:53:30+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001351s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001923s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0065s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001268s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001323s ]
+
+[ 2015-07-31T11:54:00+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001328s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001969s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0066s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001259s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001317s ]
+
+[ 2015-07-31T11:54:30+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001267s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001851s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0067s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001271s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001327s ]
+
+[ 2015-07-31T11:55:01+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001144s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001713s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0065s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001252s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001310s ]
+
+[ 2015-07-31T11:55:32+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001336s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001917s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0064s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001274s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001330s ]
+
+[ 2015-07-31T11:56:03+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001266s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001913s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0066s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001277s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001333s ]
+
+[ 2015-07-31T11:56:33+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001264s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001837s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0065s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001276s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001334s ]
+
+[ 2015-07-31T11:57:04+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001152s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001723s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0064s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001255s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001312s ]
+
+[ 2015-07-31T11:57:35+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001365s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002082s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0065s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001261s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001317s ]
+
+[ 2015-07-31T11:58:06+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001343s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002020s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0069s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001260s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001317s ]
+
+[ 2015-07-31T11:58:37+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001118s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001623s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0073s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001328s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001390s ]
+
+[ 2015-07-31T11:59:05+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001564s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002342s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0127s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001515s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001601s ]
+
+[ 2015-07-31T11:59:35+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001150s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001678s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0069s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001275s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001332s ]
+
+[ 2015-07-31T12:00:06+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001093s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001671s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0064s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001252s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001307s ]
+
+[ 2015-07-31T12:00:37+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001330s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001926s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0066s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001278s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001336s ]
+
+[ 2015-07-31T12:01:08+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001151s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001725s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0065s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001262s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001317s ]
+
+[ 2015-07-31T12:01:38+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001099s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001602s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0065s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001253s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001310s ]
+
+[ 2015-07-31T12:02:09+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001277s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001924s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0066s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001262s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001319s ]
+
+[ 2015-07-31T12:02:40+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001326s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001898s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0067s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001265s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001321s ]
+
+[ 2015-07-31T12:03:11+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001174s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001842s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0064s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001285s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001342s ]
+
+[ 2015-07-31T12:03:42+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001079s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001576s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0069s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001274s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001329s ]
+
+[ 2015-07-31T12:04:12+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001090s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001648s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0065s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001300s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001357s ]
+
+[ 2015-07-31T12:04:43+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001327s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001897s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0064s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001253s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001313s ]
+
+[ 2015-07-31T12:05:14+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001160s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001720s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0065s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001249s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001304s ]
+
+[ 2015-07-31T12:05:45+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001095s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001628s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0066s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001249s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001305s ]
+
+[ 2015-07-31T12:06:15+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001115s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001669s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0064s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001266s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001322s ]
+
+[ 2015-07-31T12:06:46+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001343s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001914s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0065s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001266s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001322s ]
+
+[ 2015-07-31T12:07:17+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001176s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001731s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0065s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001319s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001382s ]
+
+[ 2015-07-31T12:07:47+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001102s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001631s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0066s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001274s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001330s ]
+
+[ 2015-07-31T12:08:17+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001237s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001837s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0065s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001275s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001332s ]
+
+[ 2015-07-31T12:08:48+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001346s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001932s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0065s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001262s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001319s ]
+
+[ 2015-07-31T12:09:19+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001324s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001967s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0064s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001252s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001308s ]
+
+[ 2015-07-31T12:09:50+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001099s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001621s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0065s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001310s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001373s ]
+
+[ 2015-07-31T12:10:21+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001106s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001668s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0065s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001252s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001314s ]
+
+[ 2015-07-31T12:10:52+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001327s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001897s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0064s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001283s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001342s ]
+
+[ 2015-07-31T12:11:23+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001167s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001739s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0065s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001262s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001321s ]
+
+[ 2015-07-31T12:11:54+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001095s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001596s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0072s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001277s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001334s ]
+
+[ 2015-07-31T12:12:25+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001260s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001901s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0064s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001264s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001321s ]
+
+[ 2015-07-31T12:12:56+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001187s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001693s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0064s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001266s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001323s ]
+
+[ 2015-07-31T12:13:27+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001152s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001738s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0064s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001338s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001394s ]
+
+[ 2015-07-31T12:13:58+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001279s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001852s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0064s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001252s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001307s ]
+
+[ 2015-07-31T12:14:29+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001487s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002187s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0070s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001268s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001323s ]
+
+[ 2015-07-31T12:15:00+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001144s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001641s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0067s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001268s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001323s ]
+
+[ 2015-07-31T12:15:31+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001327s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001970s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0067s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001258s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001315s ]
+
+[ 2015-07-31T12:16:02+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001093s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001616s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0067s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001276s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001332s ]
+
+[ 2015-07-31T12:16:33+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001090s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001652s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0066s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001258s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001316s ]
+
+[ 2015-07-31T12:17:04+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001352s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001952s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0066s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001267s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001322s ]
+
+[ 2015-07-31T12:17:34+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001366s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002035s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0069s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001267s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001327s ]
+
+[ 2015-07-31T12:18:05+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001097s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001609s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0068s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001262s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001319s ]
+
+[ 2015-07-31T12:18:36+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001094s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001655s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0068s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001249s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001305s ]
+
+[ 2015-07-31T12:19:06+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001185s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001680s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0067s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001257s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001318s ]
+
+[ 2015-07-31T12:19:37+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001324s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001968s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0067s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001253s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001320s ]
+
+[ 2015-07-31T12:20:08+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001317s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001900s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0074s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001451s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001513s ]
+
+[ 2015-07-31T12:20:39+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001180s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001806s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0067s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001265s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001322s ]
+
+[ 2015-07-31T12:21:10+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001331s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001907s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0066s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001257s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001320s ]
+
+[ 2015-07-31T12:21:41+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001209s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001820s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0068s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001285s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001341s ]
+
+[ 2015-07-31T12:22:12+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001132s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001773s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0065s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001260s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001317s ]
+
+[ 2015-07-31T12:22:42+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001106s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001696s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0065s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001266s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001322s ]
+
+[ 2015-07-31T12:23:13+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001170s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001670s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0065s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001274s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001333s ]
+
+[ 2015-07-31T12:25:00+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001209s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001804s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0097s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001733s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001849s ]
+
+[ 2015-07-31T12:25:26+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001100s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001671s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0067s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001356s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001417s ]
+
+[ 2015-07-31T12:25:56+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001171s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001673s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0065s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001255s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001310s ]
+
+[ 2015-07-31T12:26:27+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001090s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001652s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0065s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001300s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001357s ]
+
+[ 2015-07-31T12:26:58+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001260s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001830s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0065s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001248s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001305s ]
+
+[ 2015-07-31T12:27:28+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001331s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001973s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0066s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001249s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001304s ]
+
+[ 2015-07-31T12:27:58+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001325s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001897s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0065s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001263s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001318s ]
+
+[ 2015-07-31T12:28:28+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001268s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001911s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0066s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001263s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001319s ]
+
+[ 2015-07-31T12:28:59+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001284s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001897s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0070s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001270s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001326s ]
+
+[ 2015-07-31T12:29:29+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001151s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001791s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0065s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001269s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001325s ]
+
+[ 2015-07-31T12:30:00+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001647s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002310s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0073s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001355s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001441s ]
+
+[ 2015-07-31T12:30:30+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001105s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001714s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0068s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001260s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001320s ]
+
+[ 2015-07-31T12:31:01+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001255s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001822s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0070s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001429s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001494s ]
+
+[ 2015-07-31T12:31:31+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001323s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001957s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0064s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001418s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001485s ]
+
+[ 2015-07-31T12:32:02+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001264s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001845s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0064s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001299s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001356s ]
+
+[ 2015-07-31T12:32:32+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001165s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001793s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0066s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001278s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001335s ]
+
+[ 2015-07-31T12:33:03+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001256s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001823s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0065s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001248s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001303s ]
+
+[ 2015-07-31T12:33:33+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001327s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001962s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0066s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001252s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001309s ]
+
+[ 2015-07-31T12:34:04+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001378s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001937s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0065s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001261s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001318s ]
+
+[ 2015-07-31T12:34:35+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001122s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001733s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0066s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001270s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001326s ]
+
+[ 2015-07-31T12:35:06+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001091s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001594s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0069s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001375s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001447s ]
+
+[ 2015-07-31T12:35:36+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001210s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001827s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0083s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001302s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001365s ]
+
+[ 2015-07-31T12:36:07+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001174s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001684s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0065s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001252s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001308s ]
+
+[ 2015-07-31T12:36:38+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001093s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001656s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0066s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001254s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001309s ]
+
+[ 2015-07-31T12:37:08+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001085s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001579s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0066s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001269s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001325s ]
+
+[ 2015-07-31T12:37:39+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001338s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002013s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0064s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001271s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001328s ]
+
+[ 2015-07-31T12:38:10+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001252s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001820s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0066s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001351s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001408s ]
+
+[ 2015-07-31T12:38:41+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001094s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001662s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0065s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001262s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001318s ]
+
+[ 2015-07-31T12:39:12+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001299s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001866s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0070s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001255s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001317s ]
+
+[ 2015-07-31T12:39:42+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001159s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001712s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0065s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001263s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001318s ]
+
+[ 2015-07-31T12:40:13+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001328s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001898s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0067s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001281s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001343s ]
+
+[ 2015-07-31T12:40:44+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001262s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001902s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0065s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001289s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001347s ]
+
+[ 2015-07-31T12:41:15+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001203s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001729s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0065s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001296s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001352s ]
+
+[ 2015-07-31T12:41:46+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001161s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001765s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0071s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001303s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001378s ]
+
+[ 2015-07-31T12:42:17+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001233s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001856s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0064s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001251s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001307s ]
+
+[ 2015-07-31T12:42:48+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001267s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001907s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0066s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001251s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001308s ]
+
+[ 2015-07-31T12:43:19+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001328s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001912s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0066s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001270s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001328s ]
+
+[ 2015-07-31T12:43:50+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001155s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001735s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0066s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001317s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001376s ]
+
+[ 2015-07-31T12:44:21+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001404s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001971s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0070s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001258s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001314s ]
+
+[ 2015-07-31T12:44:52+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001115s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001732s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0067s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001272s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001328s ]
+
+[ 2015-07-31T12:45:23+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001094s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001601s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0066s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001259s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001315s ]
+
+[ 2015-07-31T12:45:54+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001153s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001784s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0067s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001275s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001332s ]
+
+[ 2015-07-31T12:46:24+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001337s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001922s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0066s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001276s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001332s ]
+
+[ 2015-07-31T12:46:55+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001094s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001650s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0064s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001317s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001376s ]
+
+[ 2015-07-31T12:47:26+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001301s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001891s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0067s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001294s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001351s ]
+
+[ 2015-07-31T12:47:57+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001165s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001735s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0066s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001256s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001312s ]
+
+[ 2015-07-31T12:48:28+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001159s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001685s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0067s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001267s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001324s ]
+
+[ 2015-07-31T12:48:58+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001106s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001682s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0078s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001497s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001576s ]
+
+[ 2015-07-31T12:49:07+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=dig_boad&type=1&id=143&org=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001150s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001658s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadcomment` [ RunTime:0.0323s ]
+SQL: UPDATE `wp_aite_boadcomment` SET `dig`=dig+1 WHERE ( id=143 ) [ RunTime:0.0060s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001275s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001334s ]
+
+[ 2015-07-31T12:49:28+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001259s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001825s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0069s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001264s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001321s ]
+
+[ 2015-07-31T12:49:58+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001331s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001985s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0065s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001318s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001381s ]
+
+[ 2015-07-31T12:50:28+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001269s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001851s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0066s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001301s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001359s ]
+
+[ 2015-07-31T12:50:58+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001094s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001654s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0065s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001276s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001334s ]
+
+[ 2015-07-31T12:51:28+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001170s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001672s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0069s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001271s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001328s ]
+
+[ 2015-07-31T12:51:58+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001266s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001918s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0068s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001350s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001414s ]
+
+[ 2015-07-31T12:52:28+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001094s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001608s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0065s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001251s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001307s ]
+
+[ 2015-07-31T12:52:58+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001239s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001997s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0075s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001265s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001327s ]
+
+[ 2015-07-31T12:53:28+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001261s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001833s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0065s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001284s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001344s ]
+
+[ 2015-07-31T12:53:58+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001263s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001900s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0065s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001316s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001374s ]
+
+[ 2015-07-31T12:54:28+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001332s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001904s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0065s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001249s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001304s ]
+
+[ 2015-07-31T12:54:58+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001266s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001901s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0068s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001263s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001321s ]
+
+[ 2015-07-31T12:55:28+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001326s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001917s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0067s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001306s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001365s ]
+
+[ 2015-07-31T12:55:58+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001167s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001728s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0065s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001432s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001511s ]
+
+[ 2015-07-31T12:56:28+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001122s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001624s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0071s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001251s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001308s ]
+
+[ 2015-07-31T12:56:58+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001206s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001881s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0066s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001317s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001373s ]
+
+[ 2015-07-31T12:57:28+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001187s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001759s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0066s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001255s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001312s ]
+
+[ 2015-07-31T12:57:58+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001092s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001648s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0068s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001297s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001355s ]
+
+[ 2015-07-31T12:58:28+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001300s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001870s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0065s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001266s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001322s ]
+
+[ 2015-07-31T12:58:58+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001156s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001728s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0067s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001257s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001313s ]
+
+[ 2015-07-31T12:59:28+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001107s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001693s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0068s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001285s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001342s ]
+
+[ 2015-07-31T12:59:58+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001109s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001663s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0067s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001299s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001356s ]
+
+[ 2015-07-31T13:00:28+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001327s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001895s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0067s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001304s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001359s ]
+
+[ 2015-07-31T13:00:58+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001266s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001910s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0074s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001280s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001337s ]
+
+[ 2015-07-31T13:01:28+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001091s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001592s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0066s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001248s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001305s ]
+
+[ 2015-07-31T13:01:58+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001149s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001715s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0067s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001274s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001332s ]
+
+[ 2015-07-31T13:02:28+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001268s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001837s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0072s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001268s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001323s ]
+
+[ 2015-07-31T13:02:58+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001098s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001650s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0067s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001331s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001416s ]
+
+[ 2015-07-31T13:03:28+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001150s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001656s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0064s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001268s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001333s ]
+
+[ 2015-07-31T13:03:58+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001126s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001687s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0067s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001262s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001320s ]
+
+[ 2015-07-31T13:04:28+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001275s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001842s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0065s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001262s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001318s ]
+
+[ 2015-07-31T13:04:58+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001149s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001727s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0066s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001249s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001304s ]
+
+[ 2015-07-31T13:05:28+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001125s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001623s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0068s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001300s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001361s ]
+
+[ 2015-07-31T13:05:58+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001176s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001756s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0065s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001365s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001427s ]
+
+[ 2015-07-31T13:06:28+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001331s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001902s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0064s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001268s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001324s ]
+
+[ 2015-07-31T13:06:58+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001264s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001898s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0065s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001276s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001334s ]
+
+[ 2015-07-31T13:07:28+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001274s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001842s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0078s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001250s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001306s ]
+
+[ 2015-07-31T13:07:58+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001327s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001981s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0064s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001249s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001306s ]
+
+[ 2015-07-31T13:08:28+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001264s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001845s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0065s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001276s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001331s ]
+
+[ 2015-07-31T13:08:58+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001269s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001907s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0064s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001278s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001334s ]
+
+[ 2015-07-31T13:09:28+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001335s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001930s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0064s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001251s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001308s ]
+
+[ 2015-07-31T13:09:58+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001285s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001923s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0066s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001288s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001345s ]
+
+[ 2015-07-31T13:10:28+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001270s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001861s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0067s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001270s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001326s ]
+
+[ 2015-07-31T13:10:58+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001350s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001988s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0066s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001267s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001324s ]
+
+[ 2015-07-31T13:11:28+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001262s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001836s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0065s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001308s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001365s ]
+
+[ 2015-07-31T13:11:58+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001275s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001979s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0064s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001579s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001653s ]
+
+[ 2015-07-31T13:12:28+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001164s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001745s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0066s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001266s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001323s ]
+
+[ 2015-07-31T13:12:58+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001097s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001672s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0066s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001264s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001321s ]
+
+[ 2015-07-31T13:13:28+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001092s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001589s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0065s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001265s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001320s ]
+
+[ 2015-07-31T13:13:58+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001436s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002038s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0066s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001255s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001317s ]
+
+[ 2015-07-31T13:14:28+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001090s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001589s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0065s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001262s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001318s ]
+
+[ 2015-07-31T13:14:58+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001090s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001656s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0065s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001358s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001416s ]
+
+[ 2015-07-31T13:15:28+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001178s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001751s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0065s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001262s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001317s ]
+
+[ 2015-07-31T13:15:58+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001120s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001715s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0067s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001290s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001348s ]
+
+[ 2015-07-31T13:16:28+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001103s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001605s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0064s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001275s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001333s ]
+
+[ 2015-07-31T13:16:58+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001166s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001728s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0065s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001294s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001361s ]
+
+[ 2015-07-31T13:17:28+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001111s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001614s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0066s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001266s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001324s ]
+
+[ 2015-07-31T13:17:58+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001120s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001795s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0065s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001278s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001335s ]
+
+[ 2015-07-31T13:18:28+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001148s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001658s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0066s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001270s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001325s ]
+
+[ 2015-07-31T13:18:58+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001102s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001660s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0066s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001273s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001330s ]
+
+[ 2015-07-31T13:19:28+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001092s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001607s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0065s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001254s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001312s ]
+
+[ 2015-07-31T13:19:58+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001369s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002014s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0065s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001250s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001306s ]
+
+[ 2015-07-31T13:20:28+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001264s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001839s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0068s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001269s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001326s ]
+
+[ 2015-07-31T13:20:58+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001261s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001935s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0065s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001320s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001379s ]
+
+[ 2015-07-31T13:21:28+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001330s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001903s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0065s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001252s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001308s ]
+
+[ 2015-07-31T13:21:58+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001263s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001903s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0068s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001260s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001317s ]
+
+[ 2015-07-31T13:22:28+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001409s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002012s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0065s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001258s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001317s ]
+
+[ 2015-07-31T13:22:58+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001351s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001989s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0064s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001256s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001313s ]
+
+[ 2015-07-31T13:23:28+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001097s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001599s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0068s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001369s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001430s ]
+
+[ 2015-07-31T13:23:58+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001097s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001663s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0067s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001296s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001389s ]
+
+[ 2015-07-31T13:24:28+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001224s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001782s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0069s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001267s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001324s ]
+
+[ 2015-07-31T13:24:58+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001099s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001667s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0068s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001301s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001364s ]
+
+[ 2015-07-31T13:25:28+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001288s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001896s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0068s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001588s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001668s ]
+
+[ 2015-07-31T13:25:58+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001162s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001733s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0067s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001280s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001337s ]
+
+[ 2015-07-31T13:26:28+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001332s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001957s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0066s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001315s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001377s ]
+
+[ 2015-07-31T13:26:58+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001105s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001662s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0066s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001293s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001353s ]
+
+[ 2015-07-31T13:27:28+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001156s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001659s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0068s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001315s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001385s ]
+
+[ 2015-07-31T13:27:58+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001151s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001714s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0067s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001292s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001350s ]
+
+[ 2015-07-31T13:28:28+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001188s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001793s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0067s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001277s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001335s ]
+
+[ 2015-07-31T13:28:58+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001196s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001792s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0070s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001302s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001359s ]
+
+[ 2015-07-31T13:29:30+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001184s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001727s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0067s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001303s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001361s ]
+
+[ 2015-07-31T13:30:00+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001126s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001718s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0067s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001285s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001343s ]
+
+[ 2015-07-31T13:30:30+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001114s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001688s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0066s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001262s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001319s ]
+
+[ 2015-07-31T13:31:00+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001153s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001711s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0070s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001367s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001432s ]
+
+[ 2015-07-31T13:31:30+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001132s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001654s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0067s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001303s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001362s ]
+
+[ 2015-07-31T13:32:00+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001129s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001712s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0074s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001358s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001418s ]
+
+[ 2015-07-31T13:32:30+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001191s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001725s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0081s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001353s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001426s ]
+
+[ 2015-07-31T13:33:00+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001098s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001667s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0066s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001283s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001344s ]
+
+[ 2015-07-31T13:33:30+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001268s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001842s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0065s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001249s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001305s ]
+
+[ 2015-07-31T13:34:00+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001331s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001963s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0065s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001263s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001319s ]
+
+[ 2015-07-31T13:34:30+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001125s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001695s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0065s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001257s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001314s ]
+
+[ 2015-07-31T13:35:00+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001092s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001650s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0065s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001288s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001346s ]
+
+[ 2015-07-31T13:35:30+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001418s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002028s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0067s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001286s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001342s ]
+
+[ 2015-07-31T13:36:00+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001099s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001676s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0069s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001373s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001433s ]
+
+[ 2015-07-31T13:36:30+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001266s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001838s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0066s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001281s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001346s ]
+
+[ 2015-07-31T13:37:00+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001337s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001994s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0066s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001298s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001362s ]
+
+[ 2015-07-31T13:37:30+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001267s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001838s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0066s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001265s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001325s ]
+
+[ 2015-07-31T13:38:00+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001264s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001904s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0065s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001248s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001305s ]
+
+[ 2015-07-31T13:38:30+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001328s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001898s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0066s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001263s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001318s ]
+
+[ 2015-07-31T13:39:00+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001260s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001896s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0066s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001298s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001356s ]
+
+[ 2015-07-31T13:39:30+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001269s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001844s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0069s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001249s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001307s ]
+
+[ 2015-07-31T13:40:00+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001154s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001733s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0066s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001273s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001328s ]
+
+[ 2015-07-31T13:40:30+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001261s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001834s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0066s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001260s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001319s ]
+
+[ 2015-07-31T13:41:00+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001260s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001897s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0065s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001254s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001310s ]
+
+[ 2015-07-31T13:41:30+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001320s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001897s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0068s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001250s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001307s ]
+
+[ 2015-07-31T13:42:00+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001426s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002084s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0068s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001294s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001351s ]
+
+[ 2015-07-31T13:42:30+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001262s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001831s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0065s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001251s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001309s ]
+
+[ 2015-07-31T13:43:00+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001152s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001721s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0066s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001267s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001323s ]
+
+[ 2015-07-31T13:43:30+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001274s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001840s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0066s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001274s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001332s ]
+
+[ 2015-07-31T13:44:00+08:00 ] 127.0.0.1 /boad/Home/Index/ajax_act/?act=get_listcount&title_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001234s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001870s ]
+SQL: SHOW COLUMNS FROM `wp_aite_boadlist` [ RunTime:0.0066s ]
+SQL: SELECT count(*) FROM `wp_aite_boadlist` WHERE ( tid=3 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001248s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001306s ]
+
